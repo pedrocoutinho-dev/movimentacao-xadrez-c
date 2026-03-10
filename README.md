@@ -21,7 +21,7 @@ O simulador cobre a lógica de três peças principais:
 
 ## 📋 Como Executar o Projeto
 
-Para correr o programa no teu computador, precisas de um compilador de C (como o GCC ou o Clang) ou do **Visual Studio 2022**.
+Para correr o programa no teu computador, precisas de um compilador de C (como o GCC ou o Clang) ou do **Visual Studio Code*.
 
 1. **Clona o repositório:**
    ```bash
